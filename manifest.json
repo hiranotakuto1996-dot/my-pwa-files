@@ -2,7 +2,7 @@
   "name": "GeoFine Alarm - ジオファインアラーム",
   "short_name": "GeoFine",
   "description": "位置情報ベースのアラームアプリ",
-  "start_url": "/my-pwa-files/",
+  "start_url": "https://geo-fine-alarm-a9051fee.base44.app",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#06b6d4",
